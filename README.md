@@ -1,20 +1,32 @@
-# Introduction to Excel - M4ACE Assignment
+# Introduction to Excel – M4ACE Assignment
 
-## Overview
-This repository contains my completed assignment for the M4ACE Data Analysis Internship.
+---
 
-## Task Completed
-- Explored Excel Interface and navigation
-- Used basic formulas: SUM, AVERAGE, COUNT
-- Formatted data (bold headers, borders, column adjustment)
-- Created structured tables
+## 📌 Overview
+This repository contains my completed assignment for the **M4ACE Data Analysis Internship**.
 
-## File Included
-- Intro_Excel_Fidelis.xlsx
+---
 
-## Tools Used
-- Microsoft Excel Online
-- Git & GitHub
+## ✅ Tasks Completed
+- Explored Excel interface and navigation  
+- Used basic formulas: `SUM`, `AVERAGE`, `COUNT`  
+- Formatted data (bold headers, borders, column width adjustment)  
+- Created structured tables  
 
-## Author
+---
+
+## 📂 Files Included
+| File Name | Description |
+|-----------|-------------|
+| Intro_Excel_Fidelis.xlsx | Completed Excel assignment |
+
+---
+
+## 🛠 Tools Used
+- Microsoft Excel Online  
+- Git & GitHub  
+
+---
+
+## 👤 Author
 Fideliswrites
